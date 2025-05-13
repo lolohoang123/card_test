@@ -1,64 +1,36 @@
-## :star2: About the Project
-MyShop is an Ecommerce web application built with Next.js and MongoDB.
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## <a href="https://my-shop-ecommerce-website-gfpenuezh-pawanpk87.vercel.app/" target="_blank">LIVE DEMO 💥</a>
+## Getting Started
 
-<!-- Screenshots -->
+First, run the development server:
 
-### :camera: Screenshots
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-![Screenshot (79)](https://user-images.githubusercontent.com/87040096/219966144-f29fe874-400c-44bd-8708-0026616c8c09.png)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-##
-![Screenshot (82)](https://user-images.githubusercontent.com/87040096/219966155-35a608b3-0c48-447b-b86d-2f8c21e153cc.png)
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-##
-![Screenshot (89)](https://user-images.githubusercontent.com/87040096/219966164-ec2ee88d-fce1-4004-a8bd-fb655523b8db.png)
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-##
-![Screenshot (90)](https://user-images.githubusercontent.com/87040096/219966172-ca106a05-4eee-4a73-813a-90b7ac8de21c.png)
+## Learn More
 
-### :space_invader: Tech Stack
+To learn more about Next.js, take a look at the following resources:
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
-<br />
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-<table>
-    <tr>
-        <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/87040096/219964861-dfbad18b-7218-4347-9b8e-f233e1f23e55.png" alt="" width="30" height="30" /></a>
-        </td>
-        <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/87040096/219965241-cbf7d1cb-272a-4e32-b085-6104d64fded5.png" alt="" width="30" height="30" /></a>
-        </td>
-        <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/87040096/219964658-1e8a6ccf-ea9c-4253-b826-b095d0e3f947.png" alt="" width="30" height="30" /></a>
-        </td>
-        <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/87040096/219965413-c12fd00c-0139-4ea7-82bf-ee417530a1aa.png" alt="" width="30" height="30" /></a>
-        </td>
-    </tr>
-</table>
+## Deploy on Vercel
 
-# 🏃‍♀️ Running
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
--   Clone repo Run `git clone https://github.com/pawanpk87/myShop-Ecommerce-website.git`
--   Run `npm i`
--   Run `npm run dev`
--   See `http://localhost:3000`
-
-
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
