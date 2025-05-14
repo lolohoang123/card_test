@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-api-demo",
+  "name": "nextjs-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -18,8 +18,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "15.3.2",
-    "@eslint/eslintrc": "^3"
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
   }
 }
